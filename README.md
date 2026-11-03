@@ -3,9 +3,12 @@
 
 **Mining Engineer / Software & Systems Engineer**
 
-I am Mapesho and I do full-stack development. Primarily a Mining Engineer but thanks to ADHD and Caffeine, I dabble in System Engineering too.
+I am Mapesho and I do full-stack development. 
+Primarily a Mining Engineer but thanks to ADHD and Caffeine, I dabble in System Engineering too.
 
 ### Larp Tools
+
+Making it happen with:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
@@ -21,6 +24,12 @@ I am Mapesho and I do full-stack development. Primarily a Mining Engineer but th
 
 ### Active Work
 
-With my company, sgDev, we are actively working with businesses across the finance, agricultural and retail sectors to bring their workflows to life - with custom systems.
+Oh I wish I could publicly talk about my active work.
 
-Most on private repos so just trust me bro. Use the contribution graph to gauge my activity. Public projects coming real real soon.
+Thing is, my ongoing projects are private client work but to give you a rough idea of what it is we (sgDev, my company) are working on:
+- Custom Enterprise work management systems
+- Custom Web Apps
+- Custom Internal Auditing Algorithms (I know, I know but yes algorithm is the best way to put it)
+- Custom Company Websites
+
+Public projects will eventually drop but for now just trust me and my contribution graph.
